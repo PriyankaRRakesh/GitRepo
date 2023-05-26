@@ -2,3 +2,4 @@
 New git repository created
 
 first change made in Feature 2
+second change in Feature1
